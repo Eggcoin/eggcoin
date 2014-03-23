@@ -1,0 +1,2 @@
+#define BUILD_DESC "-20140307"
+#define BUILD_DATE "2014-03-07 11:34:03 +0100"
